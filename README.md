@@ -26,9 +26,13 @@
           <br/></div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=choisoohyun210&bg_color=180,000000,00000000&title_color=9fe6fe&text_color=9fe6fe"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisoohyun210&layout=compact&bg_color=180,000000,00000000&title_color=9fe6fe&text_color=9fe6fe" 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=choisoohyun210&bg_color=180,000000,00000000&title_color=9fe6fe&text_color=9fe6fe" /> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisoohyun210&layout=compact&bg_color=180,000000,00000000&title_color=9fe6fe&text_color=9fe6fe" 
            />
+        <br>
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choisoohyun210&show_icons=true&theme=one_dark_pro)   
+        </br>
     </div> 
     </div>
     
