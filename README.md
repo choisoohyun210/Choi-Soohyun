@@ -26,14 +26,16 @@
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-          <br/></div>
+          <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisoohyun210&show_icons=true&theme=one_dark_pro&bg_color=180,000000,00000000&hide_border=false&border_color=9fe6fe&border_radius=5" 
+            height="195"/>
+    </div>
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> 
         <img src="https://github-readme-stats.vercel.app/api?username=choisoohyun210&show_icons=true&theme=one_dark_pro&bg_color=180,000000,00000000&hide_border=false&border_color=ffffff&border_radius=5" 
             height="195"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisoohyun210&show_icons=true&theme=one_dark_pro&bg_color=180,000000,00000000&hide_border=false&border_color=9fe6fe&border_radius=5" 
-            height="195"/>
+        
     </div> 
     </div>
     
