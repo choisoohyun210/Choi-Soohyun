@@ -1,13 +1,13 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=180&text=SooHyun's%20Github&animation=blink&fontColor=9fe6fe&fontSize=70" />
     </div>
-    <div style="text-align: left;"> 
+    <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
     </div>
-    <div style="text-align: left;">
+    <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
@@ -19,12 +19,12 @@
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <br/></div>
     </div>
-    <div style="text-align: left;">
+    <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">  </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div style="text-align: left;"> 
+    <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Choi-Soohyun&bg_color=180,000000,00000000&title_color=9fe6fe&text_color=9fe6fe"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-Soohyun&layout=compact&bg_color=180,000000,00000000&title_color=9fe6fe&text_color=9fe6fe"
            /> </div> 
